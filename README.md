@@ -18,7 +18,7 @@
 
 ###
 
-<h2 data-importer="text" align="left">🛠 Language and tools</h2>
+<h2 data-importer="text" align="left">🛠 Language</h2>
 
 ###
 
