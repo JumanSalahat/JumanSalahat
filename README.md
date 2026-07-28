@@ -10,15 +10,15 @@
 
 ###
 
-<h1 data-importer="text" align="center">السّلام عليكم</h1>
+<h1 data-importer="text" align="center">السّـلام عليكُم</h1>
 
 ###
 
-<p data-importer="text" align="left">اسمي جُمان صلاحات ، من فلسطين<br>طالبة هندسة أنظمة الحاسوب</p>
+<h4 data-importer="text" align="left">اسمي جُمان صلاحات ، من فلسطين<br>طالبة هندسة أنظمة الحاسوب</h4>
 
 ###
 
-<h3 data-importer="text" align="left">🛠 Language and tools</h3>
+<h2 data-importer="text" align="left">🛠 Language and tools</h2>
 
 ###
 
@@ -28,7 +28,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">🔥   My Stats :</h3>
+<h2 data-importer="text" align="left">🔥   My Stats :</h2>
 
 ###
 
