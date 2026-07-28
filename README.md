@@ -1,14 +1,32 @@
-<h3 align="center">هندسة أنظمة الحاسوب ، في الجامعة العربيّة الأمريكيّة-جنين</h3>
+<h2 data-importer="text" align="center">السّلام عليكم ، أنا جُمان صلاحات <br> طالبة هندسة أنظمة الحاسوب ، من فلسطين</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jumansalahat&label=Profile%20views&color=0e75b6&style=flat" alt="jumansalahat" /> </p>
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/JumanSalahat/JumanSalahat/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=JumanSalahat&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/JumanSalahat/JumanSalahat/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
+###
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jumansalahat&show_icons=true&locale=en&layout=compact" alt="jumansalahat" /></p>
+<img data-importer="image" align="right" height="150" src="https://i.pinimg.com/1200x/08/ca/db/08cadb0273d49736bed2dad97f689000.jpg"  />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jumansalahat&" alt="jumansalahat" /></p>
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+</div>
+
+###
+
+<div data-importer="socials" align="left">
+</div>
+
+###
+
+<br clear="both">
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/JumanSalahat/JumanSalahat/snake-output/snake.svg" alt="Snake animation" />
+
+###
