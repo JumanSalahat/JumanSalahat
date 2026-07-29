@@ -8,15 +8,6 @@
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=JumanSalahat.JumanSalahat&"  />
 </div>
 
-###
-
-<h1 data-importer="text" align="center">السّـلام عليكُم</h1>
-
-###
-
-<h4 data-importer="text" align="left">اسمي جُمان صلاحات ، من فلسطين<br>طالبة هندسة أنظمة الحاسوب</h4>
-
-###
 
 <h2 data-importer="text" align="left">🛠 Language</h2>
 
