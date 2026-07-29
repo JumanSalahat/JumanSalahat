@@ -23,11 +23,3 @@
 <img src="https://streak-stats.demolab.com?user=JumanSalahat&theme=dark&hide_border=false&cache=20260730" height="220"/>
 
 </div>
-
----
-
-## 📫 Connect with Me
-
-<a href="https://github.com/JumanSalahat">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
