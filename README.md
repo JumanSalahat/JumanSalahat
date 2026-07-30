@@ -1,25 +1,31 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
+<div data-importer="image" align="center">
+  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=JumanSalahat.JumanSalahat"/>
+###
+
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=jumansalahat.jumansalahat&"  />
 </div>
 
-## 🛠️ Languages
+###
 
-<div align="left">
+<h3 data-importer="text" align="left">🛠 Language</h3>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45"/>
+###
 
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
 </div>
 
----
+###
 
-## 🔥 My GitHub Stats
+<h3 data-importer="text" align="left">🔥   My Stats :</h3>
 
-<div align="center">
+###
 
-<img src="https://streak-stats.demolab.com?user=JumanSalahat&theme=dark&hide_border=false&cache=20260730" height="220"/>
-
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=jumansalahat&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+###
