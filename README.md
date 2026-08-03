@@ -5,7 +5,6 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=jumansalahat.jumansalahat"/>
 </div>
-
 ---
 
 <h3 align="center">🌐 Competitive Programming</h3>
